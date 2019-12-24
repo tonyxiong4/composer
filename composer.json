@@ -1,0 +1,14 @@
+{
+    "name": "tonyxiong4/composer",
+    "description": "a composer test demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tonyxiong",
+            "email": "1224414470@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
